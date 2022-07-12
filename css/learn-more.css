@@ -12,38 +12,45 @@
 .button-request-content  {
     font-family: 'heebo', sans-serif;
     color: rgb(255, 255, 255);
+    background-color: rgb(3, 31 ,53);
 }
 .button-request  {
     background-color: rgb(3, 31 ,53);
 }
 .divider {
     color: #ffa800; /*var(--brand-color);*/
+    background-color: rgb(3, 31 ,53);
 }
 .dot    {
     color:rgb(0, 137, 182);
     /*color: var(--light-accent-color);*/
+    background-color: rgb(3, 31 ,53);
 }
 .learn-more  {
     color: rgb(3, 31 ,53);
     font-size: 34px;
     font-family: 'rajdhani', sans-serif; 
     font-weight: bold;
+    background-color: rgb(3, 31 ,53);
 }
 .invitation {
     color: rgb(214, 215, 222);
     font-size: 19px;
     font-family: 'heebo', sans-serif;
+    background-color: rgb(3, 31 ,53);
 }
 .date-set {
     font-size: 13px;
     color: rgb(255, 168, 0);
     font-family: 'rajdhani', sans-serif;
     text-transform: uppercase;
+    background-color: rgb(3, 31 ,53);
 }
 .architecture   {
     color: rgb(255, 255, 255);
     font-size: 22px;
     font-family: 'rajdhani', sans-serif;
+    background-color: rgb(3, 31 ,53);
 }
 .architecture-meaning   {
     font-size: 17px;
@@ -55,14 +62,17 @@
     font-size: 12px;
     font-family: 'heebo', sans-serif;
     color: rgb(0, 137, 182;)
+    background-color: rgb(3, 31 ,53);
 }
 .right-row  {
     color: #ffa800; /*var(--brand-color);*/
+    background-color: rgb(3, 31 ,53);
 }
 .professional-blog   {
     color: rgb(255, 255, 255);
     font-size: 22px;
     font-family: 'rajdhani', sans-serif;
+    background-color: rgb(3, 31 ,53);
 }
 .our-invitation {
     font-size: 17px;
