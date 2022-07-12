@@ -11,4 +11,8 @@
 }
 .button-request-content  {
     font-family: 'heebo', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.button-request  {
+    background-color: rgb(3, 31 ,53);
 }
