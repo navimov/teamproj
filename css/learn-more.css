@@ -59,3 +59,14 @@
 .right-row  {
     color: #ffa800; /*var(--brand-color);*/
 }
+.professional-blog   {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: 'rajdhani', sans-serif;
+}
+.our-invitation {
+    font-size: 17px;
+    font-family: 'heebo', sans-serif;
+    color: rgb(171, 172, 184);
+    background-color: rgb(3, 31 ,53);
+}
