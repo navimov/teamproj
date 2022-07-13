@@ -41,6 +41,7 @@
     background-color: rgb(3, 31 ,53);
 }
 .date-set {
+    display:flex;
     font-size: 13px;
     color: rgb(255, 168, 0);
     font-family: 'rajdhani', sans-serif;
