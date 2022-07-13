@@ -3,6 +3,7 @@
 .contacts   {
     background: #ffa800; /*var(--brand-color);*/
     text-align: center;
+    block-size: 20%;
 }
 .contacts h2 {
     color: rgb(3, 31 ,53);
