@@ -16,6 +16,7 @@
 }
 .button-request  {
     background-color: rgb(3, 31 ,53);
+    margin-bottom: 3px;
 }
 .divider {
     color: #ffa800; /*var(--brand-color);*/
