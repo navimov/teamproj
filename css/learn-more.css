@@ -3,7 +3,7 @@
 .contacts   {  
     display: flex; 
     flex-direction: column;
-    background: #ffa800; /*var(--brand-color);*/
+    background: var(--brand-color);
     align-items: center;
     width: fit-content;
      }
@@ -11,89 +11,73 @@
         display: flex;
         align-items: center;
         gap: 40px;
-     }
-   
+     }   
  .contacts h2 {
-    color: rgb(3, 31 ,53);
+    color: var(--background-color);
     font-size: 34px;
     font-family: 'Rajdhani', sans-serif;  
     }
 .button-request-content  {
     font-family: 'heebo', sans-serif;
-    color: rgb(255, 255, 255);
-    background-color: rgb(3, 31 ,53);
+    color: var(--title-color);    
 }
-.button-request  {
-    background-color: rgb(3, 31 ,53);
+.button-request  {    
     margin-bottom: 3px;
 }
 .divider {
-    color: #ffa800; /*var(--brand-color);*/
-    background-color: rgb(3, 31 ,53);
+    color: var(--brand-color);    
 }
 .dot    {
-    color:rgb(0, 137, 182);
-    /*color: var(--light-accent-color);*/
-    background-color: rgb(3, 31 ,53);
+    color: var(--light-accent-color);  
 }
 .learn-more  {
-    color: rgb(255,255,255);
+    color: var(--title-color);
     font-size: 34px;
     font-family: 'rajdhani', sans-serif; 
-    font-weight: bold;
-    background-color: rgb(3, 31 ,53);
+    font-weight: bold;   
 }
 .invitation {
-    color: rgb(214, 215, 222);
+    color: var(--subtitle-color);
     font-size: 19px;
-    font-family: 'heebo', sans-serif;
-    background-color: rgb(3, 31 ,53);
+    font-family: 'heebo', sans-serif;   
 }
 .date-set {
     display:flex;
     font-size: 13px;
-    color: rgb(255, 168, 0);
+    color: var(--brand-color);
     font-family: 'rajdhani', sans-serif;
-    text-transform: uppercase;
-    background-color: rgb(3, 31 ,53);
+    text-transform: uppercase;    
 }
 .architecture   {
-    color: rgb(255, 255, 255);
+    color: var(--title-color);
     font-size: 22px;
-    font-family: 'rajdhani', sans-serif;
-    background-color: rgb(3, 31 ,53);
+    font-family: 'rajdhani', sans-serif;    
 }
 .architecture-meaning   {
     font-size: 17px;
     font-family: 'heebo', sans-serif;
-    color: rgb(171, 172, 184);
-    background-color: rgb(3, 31 ,53);
+    color: var(--text-color);    
 }
 .more-info  {
     font-size: 12px;
     font-weight: bold;
     font-family: 'heebo', sans-serif;
-    color: rgb(0, 137, 182);
-    background-color: rgb(3, 31 ,53);
+    color: var(--light-accent-color);    
 }
 .right-row  {
-    color: #ffa800; /*var(--brand-color);*/
-    background-color: rgb(3, 31 ,53);
+    var(--brand-color);   
 }
 .professional-blog   {
-    color: rgb(255, 255, 255);
+    color: var(--title-color);
     font-size: 22px;
-    font-family: 'rajdhani', sans-serif;
-    background-color: rgb(3, 31 ,53);
+    font-family: 'rajdhani', sans-serif;   
 }
 .our-invitation {
     font-size: 17px;
     font-family: 'heebo', sans-serif;
-    color: rgb(171, 172, 184);
-    background-color: rgb(3, 31 ,53);
+    color: var(--text-color);   
 }
 .our-contact-info   {   
     display:flex;
-    align-items: center;
- background-color: rgb(3, 31 ,53);
+    align-items: center; 
 }
