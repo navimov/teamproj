@@ -6,9 +6,10 @@
     background: #ffa800; /*var(--brand-color);*/
     text-align: center;
     }
-    .contacts   {
-        weight:500px;
-    }
+   .contacts div {
+    width: auto;
+    height: 366px;
+   }
 .contacts h2 {
     color: rgb(3, 31 ,53);
     font-size: 34px;
