@@ -23,6 +23,7 @@
 }
 .button-request  {    
     margin-bottom: 3px;
+    background-color: var(--background-color);
 }
 .divider {
     color: var(--brand-color);    
