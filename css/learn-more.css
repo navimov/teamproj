@@ -3,6 +3,7 @@
 .contacts   {   
     background: #ffa800; /*var(--brand-color);*/
     align-items: center;
+    width: 600px;
      }
 .contacts div   {
     align-items: center;
