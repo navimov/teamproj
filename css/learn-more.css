@@ -5,6 +5,10 @@
     align-items: center;
     width: 600px;
      }
+     .learn-more-about-brand    {
+        display: flex;
+        justify-content: center;
+     }
 .contacts div   {
     align-items: center;
 }    
