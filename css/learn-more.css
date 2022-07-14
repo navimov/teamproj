@@ -5,7 +5,7 @@
     flex-direction: column;
     background: #ffa800; /*var(--brand-color);*/
     align-items: center;
-    width: 600px;
+    width: fit-content;
      }
      .learn-more-about-brand    {
         display: flex;
