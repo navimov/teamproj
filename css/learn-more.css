@@ -3,7 +3,8 @@
 .contacts   {   
     background: #ffa800; /*var(--brand-color);*/
     align-items: center;
-    }
+     }
+    
  .contacts h2 {
     color: rgb(3, 31 ,53);
     font-size: 34px;
@@ -64,7 +65,7 @@
     font-size: 12px;
     font-weight: bold;
     font-family: 'heebo', sans-serif;
-    color: rgb(0, 137, 182;)
+    color: rgb(0, 137, 182);
     background-color: rgb(3, 31 ,53);
 }
 .right-row  {
