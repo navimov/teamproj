@@ -80,5 +80,5 @@
 .our-contact-info   {   
     display:flex;
     align-items: center; 
-    
+    background-color: var(--background-color);
 }
