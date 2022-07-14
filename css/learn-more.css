@@ -5,11 +5,12 @@
     flex-direction: column;
     background: #ffa800; /*var(--brand-color);*/
     align-items: center;
-    width: fit-content;
+    width: 600px;
      }
      .learn-more-about-brand    {
         display: flex;
         align-items: center;
+        gap: 20px;
      }
 .contacts div   {
     align-items: center;
