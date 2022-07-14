@@ -18,6 +18,9 @@
     font-size: 34px;
     font-family: 'Rajdhani', sans-serif;  
     }
+    .contacts button-request:hover {
+        background-color: var(--light-accent-color);
+    }
 .button-request-content  {
     font-family: 'heebo', sans-serif;
     color: var(--title-color);    
