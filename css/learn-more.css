@@ -4,7 +4,7 @@
     display: inline;
     background: #ffa800; /*var(--brand-color);*/
     text-align: center;
-   width: fit-content;
+    width: 366px;
 }
 .contacts h2 {
     color: rgb(3, 31 ,53);
