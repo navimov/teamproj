@@ -6,11 +6,14 @@
     background: #ffa800; /*var(--brand-color);*/
     text-align: center;
     }
+    .contacts   {
+        weight:500px;
+    }
 .contacts h2 {
     color: rgb(3, 31 ,53);
     font-size: 34px;
-    font-family: 'Rajdhani', sans-serif;  /**/
-}
+    font-family: 'Rajdhani', sans-serif;  
+    }
 .button-request-content  {
     font-family: 'heebo', sans-serif;
     color: rgb(255, 255, 255);
