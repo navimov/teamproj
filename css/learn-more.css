@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap');
 .contacts   {   
     background: #ffa800; /*var(--brand-color);*/
-    text-align: center;
+    align-items: center;
     }
  .contacts h2 {
     color: rgb(3, 31 ,53);
