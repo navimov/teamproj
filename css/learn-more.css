@@ -6,7 +6,7 @@
     flex-direction: column;
     align-items: center;
     background: var(--brand-color);
-    position: static;
+    width: 1200px;
      }
      .learn-more-about-brand    {
         display: flex;
