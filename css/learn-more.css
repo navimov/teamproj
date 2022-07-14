@@ -6,8 +6,7 @@
     flex-direction: column;
     align-items: center;
     background: var(--brand-color);
-    width:100%;
-    margin:50px;
+    position: absolute;
      }
      .learn-more-about-brand    {
         display: flex;
