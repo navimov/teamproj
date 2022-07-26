@@ -15,6 +15,9 @@
     background-color: var(--background-color);
     border-radius: 8px;
 }
+.button-request:hover   {
+    background-color: var(--light-accent-color);
+}
 
      .learn-more-about-brand    {
         display: flex;
@@ -24,8 +27,7 @@
      }   
 
  .contacts h2 {
-    display: flex;
-    vertical-align: baseline;
+    justify-content: center;
     color: var(--background-color);
     font-size: 34px;
     font-family: 'Rajdhani', sans-serif;  
