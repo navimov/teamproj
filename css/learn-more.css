@@ -15,6 +15,9 @@
     background-color: var(--background-color);
     border-radius: 8px;
 }
+.button-request-text    {
+    color: var(--title-color);
+}
 .button-request:hover   {
     background-color: var(--light-accent-color);
 }
