@@ -12,12 +12,12 @@
        }
   
 .button-request  {    
-    box-sizing: border-box;
     align-items: center;
     text-align: center;
     border-width: 2px;
     background-color: var(--background-color);
     border-radius: 8px;    
+     
     }
 .button-request-text    {
     color: var(--title-color);
