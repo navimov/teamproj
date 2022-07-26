@@ -8,32 +8,26 @@
     background: var(--brand-color);
     width: 1200px;
      }
-         /*
-.button-request-content  {
-    font-family: 'heebo', sans-serif;
-    color: var(--title-color);    
-}*/
+
 .button-request  {    
     border-width: 2px;
     background-color: var(--background-color);
     border-radius: 8px;
 }
-/*.our-contact-info   {   
-    display:flex;
-    align-items: center; 
-    background-color: var(--background-color);
-}*/
+
      .learn-more-about-brand    {
         display: flex;
         background-color: var(--background-color);
         align-items: center;
         gap: 40px;
      }   
+
  .contacts h2 {
     color: var(--background-color);
     font-size: 34px;
     font-family: 'Rajdhani', sans-serif;  
     }
+
     .contacts button-request:hover {
         background-color: var(--light-accent-color);
     }
@@ -41,20 +35,24 @@
 .divider-right-row {
     color: var(--brand-color);    
 }
+
 .dot    {
     color: var(--light-accent-color);  
 }
+
 .learn-more  {
     color: var(--title-color);
     font-size: 34px;
     font-family: 'rajdhani', sans-serif; 
     font-weight: bold;   
    }
+
 .coworking-invitation {
     color: var(--subtitle-color);
     font-size: 19px;
     font-family: 'heebo', sans-serif;   
     }
+
 .date-set {
     display:flex;
     font-size: 13px;
@@ -62,34 +60,17 @@
     font-family: 'rajdhani', sans-serif;
     text-transform: uppercase;    
 }
+
 .architecture-blog   {
     color: var(--title-color);
     font-size: 22px;
     font-family: 'rajdhani', sans-serif;    
 }
-/*.architecture-meaning   {
-    font-size: 17px;
-    font-family: 'heebo', sans-serif;
-    color: var(--text-color);    
-}*/
+
 .more-info  {
     font-size: 12px;
     font-weight: bold;
     font-family: 'heebo', sans-serif;
     color: var(--light-accent-color);    
 }
-/*
-.right-row  {
-   color:  var(--brand-color);   
-}
-.professional-blog   {
-    color: var(--title-color);
-    font-size: 22px;
-    font-family: 'rajdhani', sans-serif;   
-}
-.our-invitation {
-    font-size: 17px;
-    font-family: 'heebo', sans-serif;
-    color: var(--text-color);   
-}
-*/
+      
