@@ -10,6 +10,7 @@
      }
 
 .button-request  {    
+    display: flex;
     border-width: 2px;
     background-color: var(--background-color);
     border-radius: 8px;
@@ -23,6 +24,7 @@
      }   
 
  .contacts h2 {
+    display: flex;
     color: var(--background-color);
     font-size: 34px;
     font-family: 'Rajdhani', sans-serif;  
