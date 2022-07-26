@@ -38,7 +38,7 @@
         background-color: var(--light-accent-color);
     }
 
-.divider {
+.divider-right-row {
     color: var(--brand-color);    
 }
 .dot    {
@@ -67,21 +67,22 @@
     font-size: 22px;
     font-family: 'rajdhani', sans-serif;    
 }
-.architecture-meaning   {
+/*.architecture-meaning   {
     font-size: 17px;
     font-family: 'heebo', sans-serif;
     color: var(--text-color);    
-}
+}*/
 .more-info  {
     font-size: 12px;
     font-weight: bold;
     font-family: 'heebo', sans-serif;
     color: var(--light-accent-color);    
 }
+/*
 .right-row  {
    color:  var(--brand-color);   
 }
-/*.professional-blog   {
+.professional-blog   {
     color: var(--title-color);
     font-size: 22px;
     font-family: 'rajdhani', sans-serif;   
