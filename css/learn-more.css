@@ -7,6 +7,7 @@
     align-items: center;
     background: var(--brand-color);
     width: 1200px;
+    padding: 50px 0;
        }
   
 .button-request  {    
@@ -15,7 +16,8 @@
     border-width: 2px;
     background-color: var(--background-color);
     border-radius: 8px;
-    }
+    padding: 0 50px;    
+}
 .button-request-text    {
     color: var(--title-color);
     text-transform: uppercase;
