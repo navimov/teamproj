@@ -16,7 +16,7 @@
     border-width: 2px;
     background-color: var(--background-color);
     border-radius: 8px;
-    padding: 0 50px;    
+    padding: 50px 50px;    
 }
 .button-request-text    {
     color: var(--title-color);
