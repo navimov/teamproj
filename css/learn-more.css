@@ -7,12 +7,13 @@
     align-items: center;
     background: var(--brand-color);
     width: 1200px;
-    padding: 0 0 100px 0;
+    padding: 0 0 60px 0;
        }
   
 .button-request  {    
     box-sizing: border-box;
     align-items: center;
+    text-align: center;
     border-width: 2px;
     background-color: var(--background-color);
     border-radius: 8px;    
