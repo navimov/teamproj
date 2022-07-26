@@ -25,6 +25,7 @@
 
  .contacts h2 {
     display: flex;
+    vertical-align: baseline;
     color: var(--background-color);
     font-size: 34px;
     font-family: 'Rajdhani', sans-serif;  
