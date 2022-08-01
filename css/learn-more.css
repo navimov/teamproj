@@ -101,7 +101,6 @@
     font-weight: bold;
 }
 .contacts__text {
-    display: flex;;
     font-size: 34px;
-    color:var(--background-color);    
-}
+    color:var(--background-color);  
+    }

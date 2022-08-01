@@ -1,0 +1,74 @@
+.each__member {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.img__each-member {
+    width: 1000px;
+}
+
+.each__member-title {
+    color: var(--title-color);
+}
+
+.each__member-our-team-consist {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.each__member-our-team-consist {
+    color: var(--title-color);
+}
+
+.each__member-btns {
+    display: flex;
+    flex-direction: row;
+}
+
+.each__member-btn-vacancies {
+    display: flex;
+    border-radius: 10px;
+    background-color: var(--brand-color);
+    width: 200px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.each__member-btn-vacancies:hover {
+    display: flex;
+    background-color: var(--light-accent-color);
+    width: 200px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.each__member-btn-vacancies-text {
+    color: var(--title-color);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.each__member-btn-contact-us {
+    background-color: var(--background-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+   border-width: medium;
+   border-style: solid;
+   border-color: var(--brand-color);
+}
+.each__member-btn-contact-us:hover  {
+    background-color: var(--brand-color);
+    
+}
+.each__member-btn-contact-us-text {
+    color: var(--brand-color);
+}
