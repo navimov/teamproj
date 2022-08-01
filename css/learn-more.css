@@ -10,23 +10,13 @@
     padding: 0 0 50px 0;
     margin-bottom: 50px;
        }
-  
-.button-request  {    
-    align-items: center;
-    text-align: center;
-    border-width: 2px;
-    background-color: var(--background-color);
-    border-radius: 8px;    
-     
-    }
-.button-request-text    {
+
+.button__request-text    {
     color: var(--title-color);
     text-transform: uppercase;
 }
-.button-request:hover   {
-    background-color: var(--light-accent-color);
-}
-     .learn-more-about-brand    {
+
+     .learn__more-about-brand    {
         display: flex;
         background-color: var(--background-color);
         align-items: center;
@@ -40,31 +30,27 @@
     font-family: 'Rajdhani', sans-serif;  
     }
 
-    .contacts button-request:hover {
-        background-color: var(--light-accent-color);
-    }
-
-.divider-right-row {
+.divider__right-row {
     color: var(--brand-color);    
 }
 
 .dot    {
     color: var(--light-accent-color);  
 }
-.learn-more  {
+.learn__more-about-brand-read-more  {
     color: var(--title-color);
     font-size: 34px;
     font-family: 'rajdhani', sans-serif; 
     font-weight: bold;   
    }
 
-.coworking-invitation {
+.learn__more-about-brand-coworking-invitation {
     color: var(--subtitle-color);
     font-size: 19px;
     font-family: 'heebo', sans-serif;   
     }
 
-.date-set {
+.learn__more-about-brand-date-set {
     display:flex;
     font-size: 13px;
     color: var(--brand-color);
@@ -72,13 +58,13 @@
     text-transform: uppercase;    
 }
 
-.architecture-blog   {
+.learn__more-about-brand-architecture-blog   {
     color: var(--title-color);
     font-size: 22px;
     font-family: 'rajdhani', sans-serif;    
 }
 
-.more-info  {
+.learn__more-about-brand-read-more  {
     font-size: 12px;
     font-weight: bold;
     font-family: 'heebo', sans-serif;
