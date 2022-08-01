@@ -14,15 +14,18 @@
 }
 
 .each__member-title {
+    padding-top: 150px;
     color: var(--title-color);
 }
 
 .each__member-our-team-consist {
-    font-size: 17px;
+    font-size: 14px;
     font-weight: bold;
+    color: var(--subtitle-color);
 }
 
-.each__member-our-team-consist {
+.each__member-our-staff {
+    font-size: 14px;
     color: var(--subtitle-color);
 }
 

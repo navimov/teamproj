@@ -9,7 +9,7 @@
     background: var(--brand-color);
     width: fit-content;
     padding: 0 230px 50px 230px;
-    margin-bottom: 50px;    
+    margin-bottom: 50px;
 }
 
 .learn__more-about-construction-industry {
@@ -100,7 +100,8 @@
     font-size: 14px;
     font-weight: bold;
 }
+
 .contacts__text {
     font-size: 34px;
-    color:var(--background-color);  
-    }
+    color: var(--background-color);
+}
