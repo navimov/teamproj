@@ -34,6 +34,9 @@
     height: 50px;
     align-items: center;
     justify-content: center;
+    border-width: medium;
+    border-style: solid;
+    border-color: var(--brand-color);
 }
 
 .each__member-btn-vacancies:hover {
@@ -43,6 +46,9 @@
     height: 50px;
     align-items: center;
     justify-content: center;
+    border-width: medium;
+    border-style: solid;
+    border-color: var(--light-accent-color);
 }
 
 .each__member-btn-vacancies-text {
@@ -70,5 +76,6 @@
     
 }
 .each__member-btn-contact-us-text {
-    color: var(--brand-color);
+    color: var(--title-color);
+    text-decoration: none;
 }
