@@ -1,73 +1,107 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap');
-.contacts {  
-    display: flex; 
+
+.contacts {
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background: var(--brand-color);
     width: 1200px;
     padding: 0 0 50px 0;
-    margin-bottom: 50px;
-       }
-
-.button__request-text    {
-    color: var(--title-color);
-    text-transform: uppercase;
+    margin-bottom: 50px;    
 }
 
-     .learn__more-about-brand    {
-        display: flex;
-        background-color: var(--background-color);
-        align-items: center;
-        gap: 40px;
-     }   
+.learn__more-about-construction-industry {
+    color: var(--subtitle-color);
+    font-size: 34px;
+    ;
+}
 
- .contacts h2 {
+.learn__more-about-brand {
+    display: flex;
+    background-color: var(--background-color);
+    align-items: center;
+    gap: 40px;
+}
+
+.contacts h2 {
     justify-content: center;
     color: var(--background-color);
     font-size: 34px;
-    font-family: 'Rajdhani', sans-serif;  
-    }
+    font-family: 'Rajdhani', sans-serif;
+}
 
 .divider__right-row {
-    color: var(--brand-color);    
+    color: var(--brand-color);
 }
 
-.dot    {
-    color: var(--light-accent-color);  
+.dot {
+    color: var(--light-accent-color);
 }
-.learn__more-about-brand-read-more  {
+
+.learn__more-about-brand-read-more {
     color: var(--title-color);
     font-size: 34px;
-    font-family: 'rajdhani', sans-serif; 
-    font-weight: bold;   
-   }
+    font-family: 'rajdhani', sans-serif;
+    font-weight: bold;
+}
 
 .learn__more-about-brand-coworking-invitation {
     color: var(--subtitle-color);
     font-size: 19px;
-    font-family: 'heebo', sans-serif;   
-    }
+    font-family: 'heebo', sans-serif;
+}
 
 .learn__more-about-brand-date-set {
-    display:flex;
+    display: flex;
     font-size: 13px;
     color: var(--brand-color);
     font-family: 'rajdhani', sans-serif;
-    text-transform: uppercase;    
+    text-transform: uppercase;
 }
 
-.learn__more-about-brand-architecture-blog   {
+.learn__more-about-brand-architecture-blog {
     color: var(--title-color);
     font-size: 22px;
-    font-family: 'rajdhani', sans-serif;    
+    font-family: 'rajdhani', sans-serif;
 }
 
-.learn__more-about-brand-read-more  {
+.learn__more-about-brand-read-more {
     font-size: 12px;
     font-weight: bold;
     font-family: 'heebo', sans-serif;
-    color: var(--light-accent-color);    
+    color: var(--light-accent-color);
 }
-      
+
+.request__quote {
+    display: flex;
+    background-color: var(--background-color);
+    width: 200px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.request__quote:hover {
+    display: flex;
+    background-color: var(--light-accent-color);
+    width: 200px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.request__quote-text {
+    color: var(--title-color);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+.contacts__text {
+    display: flex;;
+    font-size: 34px;
+    color:var(--background-color);    
+}
