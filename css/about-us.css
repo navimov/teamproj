@@ -4,6 +4,11 @@
     justify-content: space-between;
 }
 
+.each__member-text {
+    background-color: (#033764);
+    padding: 0 200px 0 200px;
+}
+
 .img__each-member {
     width: 1000px;
 }
@@ -18,12 +23,13 @@
 }
 
 .each__member-our-team-consist {
-    color: var(--title-color);
+    color: var(--subtitle-color);
 }
 
 .each__member-btns {
     display: flex;
     flex-direction: row;
+    margin-top: 50px;
 }
 
 .each__member-btn-vacancies {
@@ -62,20 +68,26 @@
 .each__member-btn-contact-us {
     background-color: var(--background-color);
     display: flex;
+    margin: 0 0 0 30px;
     align-items: center;
     justify-content: center;
     width: 200px;
     height: 50px;
     border-radius: 10px;
-   border-width: medium;
-   border-style: solid;
-   border-color: var(--brand-color);
+    border-width: medium;
+    border-style: solid;
+    border-color: var(--brand-color);
 }
-.each__member-btn-contact-us:hover  {
+
+.each__member-btn-contact-us:hover {
     background-color: var(--brand-color);
-    
 }
-.each__member-btn-contact-us-text {
+
+.each__member-btn-contact-us:hover a {
     color: var(--title-color);
+}
+
+.each__member-btn-contact-us-text {
+    color: var(--brand-color);
     text-decoration: none;
 }
